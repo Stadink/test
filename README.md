@@ -17,11 +17,11 @@
 
 ## Key Features 🍪
 
-* Supporting JPEG, PNG, PPM, PGM image formats
+* Supports JPEG, PNG, PPM, PGM image formats
 * Light / Dark theme
 * ASCII art symbols size adjustment
 * Your own ASCII art symbol style!
-* Preserve an image's aspect ratio
+* Preserves an image's aspect ratio
 * ASCII art animation with duration adjustment
 * Export art to .txt file in full image resolution
 * Supporting art effects:
@@ -83,7 +83,7 @@ $ python3 app.py
   3) Apply your changes
   4) Press the _Save_ button and wait for image to re-convert
 * To remove image from list:
-  1) Press the three dots under below the needed image
+  1) Press the three dots under/below (что-то одно) the needed image
   2) Press the _Remove image_ button
 * To export image to _.txt_ file:
   1) Press the three dots under below the needed image
